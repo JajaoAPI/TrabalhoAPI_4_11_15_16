@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terreno
+  - Plataforma
+  - Fall
+  - Killer
+  - Chase
+  - Bait
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - 
+  - 
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BBackground
+    uniqueID: 2649224415
+    locked: 0
+  - name: Background
+    uniqueID: 922479039
+    locked: 0
+  - name: Foreground
+    uniqueID: 1753199649
+    locked: 0
+  - name: Player
+    uniqueID: 1700345705
+    locked: 0
+  - name: Ground
+    uniqueID: 577475613
+    locked: 0
